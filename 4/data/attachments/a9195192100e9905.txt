@@ -1,0 +1,4 @@
+First dialog message: Well done you clicked on the link!
+Second dialog message: Well done you clicked on the link!
+Third dialog message: Well done you clicked on the link!
+Fourth dialog message: Well done you clicked on the link!
